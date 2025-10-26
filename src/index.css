@@ -1,4 +1,10 @@
 @import "tailwindcss";
+@plugin "daisyui";
+
 .fontLan{
   font-family: 'Anek Bangla';
+}
+
+body{
+  background-color: white;
 }
